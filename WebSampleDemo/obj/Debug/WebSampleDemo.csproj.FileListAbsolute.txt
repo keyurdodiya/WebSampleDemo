@@ -1,0 +1,8 @@
+E:\ASP\WebSampleDemo\WebSampleDemo\obj\Debug\WebSampleDemo.csprojResolveAssemblyReference.cache
+E:\ASP\WebSampleDemo\WebSampleDemo\bin\WebSampleDemo.dll.config
+E:\ASP\WebSampleDemo\WebSampleDemo\bin\WebSampleDemo.dll
+E:\ASP\WebSampleDemo\WebSampleDemo\bin\WebSampleDemo.pdb
+E:\ASP\WebSampleDemo\WebSampleDemo\bin\RectangleWcfServices.dll
+E:\ASP\WebSampleDemo\WebSampleDemo\bin\RectangleWcfServices.pdb
+E:\ASP\WebSampleDemo\WebSampleDemo\obj\Debug\WebSampleDemo.dll
+E:\ASP\WebSampleDemo\WebSampleDemo\obj\Debug\WebSampleDemo.pdb

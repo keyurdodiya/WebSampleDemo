@@ -1,0 +1,5 @@
+E:\ASP\WebSampleDemo\RectangleWcfServices\bin\Debug\RectangleWcfServices.dll.config
+E:\ASP\WebSampleDemo\RectangleWcfServices\bin\Debug\RectangleWcfServices.dll
+E:\ASP\WebSampleDemo\RectangleWcfServices\bin\Debug\RectangleWcfServices.pdb
+E:\ASP\WebSampleDemo\RectangleWcfServices\obj\Debug\RectangleWcfServices.dll
+E:\ASP\WebSampleDemo\RectangleWcfServices\obj\Debug\RectangleWcfServices.pdb
